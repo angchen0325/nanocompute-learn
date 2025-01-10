@@ -2,6 +2,7 @@ latex/
 papers/
 media/
 figures/
+*_out/
 
 *.gif
 *.h5
