@@ -1,1 +1,7 @@
 # nanocompute-learn
+
+Here we learn several algotithms for photonics:
+ - [$\texttt{Meep}$](https://meep.readthedocs.io/en/latest/): a free and open-source software package for electromagnetics simulation via the finite-difference time-domain (FDTD) method spanning a broad range of applications.
+ - [$\texttt{MPB}$](https://mpb.readthedocs.io/en/latest/): a free and open-source software package for computing the band structures, or dispersion relations, and electromagnetic modes of periodic dielectric structures, on both serial and parallel computers. MPB is an acronym for *MIT Photonic Bands*.
+ - [$\texttt{NLopt}$](https://nlopt.readthedocs.io/en/latest/): a free/open-source library for nonlinear optimization, providing a common interface for a number of different free optimization routines available online as well as original implementations of various other algorithms. 
+ - [$\texttt{legume}$](https://legume.readthedocs.io/en/latest/): an open source Python package that implements a differentiable guided mode expansion (GME) method for multi-layer optical structures. Legume also implements a differentiable plane wave expansion (PWE) method for purely two-dimensional periodic structures. legume is an acronym for le GUided Mode Expansion.
