@@ -2,6 +2,7 @@ papers/
 media/
 figures/
 *_out/
+tmp/
 
 *.gif
 *.h5
