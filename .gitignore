@@ -3,6 +3,7 @@ media/
 figures/
 *_out/
 tmp/
+pylibs/__pycache__/
 
 *.gif
 *.h5
